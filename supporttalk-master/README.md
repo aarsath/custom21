@@ -11,9 +11,7 @@ To get started, take a look at src/app/page.tsx.
 
 NextN is a modern web application built with **Next.js**, **Tailwind CSS**, **Firebase**, and **Genkit AI**. It provides a strong foundation for building scalable, responsive, and interactive user interfaces, with features like AI integration, UI component libraries, and a modular structure for easy development.
 
-## Demo
 
-> **Live URL:** *Coming soon or add your deployed link here*
 
 ---
 
